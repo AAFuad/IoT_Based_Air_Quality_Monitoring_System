@@ -7,7 +7,10 @@ Libraries and Credit:
 2. LiquidCrystal_I2C library by Martin K. and Frank B.
 3. https://how2electronics.com/interfacing-pms5003-air-quality-sensor-arduino/    for PMS5003 coding
 
-Presentation and Demonstration:
-https://youtu.be/V8N2szq_1VQ
+Presentation
+https://www.youtube.com/watch?v=l6kMOQHJMjE
+
+Demonstration
+
 
 Bangladesh University of Engineering and Technology (BUET)
